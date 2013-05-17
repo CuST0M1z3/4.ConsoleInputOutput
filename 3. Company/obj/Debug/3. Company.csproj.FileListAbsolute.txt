@@ -1,0 +1,5 @@
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\3. Company\bin\Debug\_3.Company.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\3. Company\bin\Debug\_3.Company.exe
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\3. Company\bin\Debug\_3.Company.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\3. Company\obj\Debug\_3.Company.exe
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\3. Company\obj\Debug\_3.Company.pdb

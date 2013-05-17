@@ -1,0 +1,5 @@
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\7. SumOfNumbers\bin\Debug\_7.SumOfNumbers.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\7. SumOfNumbers\bin\Debug\_7.SumOfNumbers.exe
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\7. SumOfNumbers\bin\Debug\_7.SumOfNumbers.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\7. SumOfNumbers\obj\Debug\_7.SumOfNumbers.exe
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\7. SumOfNumbers\obj\Debug\_7.SumOfNumbers.pdb

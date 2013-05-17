@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\10. CalculateSum\bin\Debug\_10.CalculateSum.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\10. CalculateSum\bin\Debug\_10.CalculateSum.exe
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\10. CalculateSum\bin\Debug\_10.CalculateSum.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\10. CalculateSum\obj\Debug\10. CalculateSum.csprojResolveAssemblyReference.cache
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\10. CalculateSum\obj\Debug\_10.CalculateSum.exe
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\10. CalculateSum\obj\Debug\_10.CalculateSum.pdb

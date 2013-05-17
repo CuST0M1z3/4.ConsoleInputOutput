@@ -1,0 +1,5 @@
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\2. CircleAreaAndPerimeter\bin\Debug\_2.CircleAreaAndPerimeter.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\2. CircleAreaAndPerimeter\bin\Debug\_2.CircleAreaAndPerimeter.exe
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\2. CircleAreaAndPerimeter\bin\Debug\_2.CircleAreaAndPerimeter.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\2. CircleAreaAndPerimeter\obj\Debug\_2.CircleAreaAndPerimeter.exe
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\2. CircleAreaAndPerimeter\obj\Debug\_2.CircleAreaAndPerimeter.pdb

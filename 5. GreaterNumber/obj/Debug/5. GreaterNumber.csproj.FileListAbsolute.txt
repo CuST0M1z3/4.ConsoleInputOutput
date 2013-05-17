@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\5. GreaterNumber\bin\Debug\_5.GreaterNumber.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\5. GreaterNumber\bin\Debug\_5.GreaterNumber.exe
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\5. GreaterNumber\bin\Debug\_5.GreaterNumber.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\5. GreaterNumber\obj\Debug\_5.GreaterNumber.exe
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\5. GreaterNumber\obj\Debug\_5.GreaterNumber.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\5. GreaterNumber\obj\Debug\5. GreaterNumber.csprojResolveAssemblyReference.cache

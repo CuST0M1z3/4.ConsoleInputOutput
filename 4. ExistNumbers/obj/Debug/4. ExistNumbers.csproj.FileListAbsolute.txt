@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\4. ExistNumbers\bin\Debug\_4.ExistNumbers.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\4. ExistNumbers\bin\Debug\_4.ExistNumbers.exe
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\4. ExistNumbers\bin\Debug\_4.ExistNumbers.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\4. ExistNumbers\obj\Debug\_4.ExistNumbers.exe
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\4. ExistNumbers\obj\Debug\_4.ExistNumbers.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\4. ConsoleInputOutput\4. ExistNumbers\obj\Debug\4. ExistNumbers.csprojResolveAssemblyReference.cache
